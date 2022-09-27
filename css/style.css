@@ -26,7 +26,7 @@ header{
 }
 
 body{
-    background-color: rgb(81, 0, 255);
+    background-color: #f6f8f9;
     
 }
 
@@ -38,12 +38,74 @@ body{
 
 #button-1{
  width: 75px;
- margin: 8px 50px;
- color: black ;
+ margin-left:50px;
+ background-color: #45abea;
+ color: white;
 }
 
 #button-2{
     width: 85px;
     margin: 8px 0px;
-    color: black ;
+    color: rgb(165, 165, 165);
+}
+
+.bordo{
+    border-bottom: solid 2px;
+    border-color:lightgray;
+}
+
+.sezioni{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 50px;
+    padding:12px
+
+}
+.editorial{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #45abea;
+}
+
+.q1-goals{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #9c72e4;
+}
+.Recruiting{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #64c0a9;
+}
+
+.mobile{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #f29e33;
+}
+.website{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #d863a1;
+}
+.sales{
+    border-radius: 23px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+    background-color: #b0c926;
+}
+span{
+    line-height: 50px;
 }
